@@ -1,4 +1,4 @@
-seed 351 @ 2024-06-25T00:00:00+07:00
+seed 351 @ 2023-07-27T00:00:00+07:00
 owner=SATU1111
 repo=core-engine
-year=2024
+year=2023
